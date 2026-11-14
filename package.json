@@ -1,6 +1,6 @@
 {
   "name": "calculator",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "homepage": "http://ahfarmer.github.io/calculator",
   "devDependencies": {
@@ -36,5 +36,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Responsive scientific calculator with themes, keyboard controls, history, memory and tests."
 }
